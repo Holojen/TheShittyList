@@ -11,11 +11,18 @@
     "percentToQualify": 100,
     "records": [
        {
+            "user": "Holojen",
+            "link": "https://youtu.be/C1owevW6XvU",
+            "percent": 100,
+            "hz": 288
+        },
+       {
             "user": "Yarkii",
             "link": "https://www.youtube.com/watch?v=nX-X_-BEjQI&ab_channel=YarkiiGD",
             "percent": 100,
             "hz": 300
         }
+   
     ]
 }    
         
